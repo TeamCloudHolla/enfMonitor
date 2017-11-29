@@ -1,0 +1,5 @@
+name: enfMonitor
+author: IIIKILLAIII
+version: 1.0
+
+main: com.iiikillaiii.monitor.Monitor
